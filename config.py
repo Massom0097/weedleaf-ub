@@ -23,7 +23,7 @@ SESSION3 = getenv("SESSION3")
 SESSION4 = getenv("SESSION4")
 SESSION5 = getenv("SESSION5")
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/gamingbuddyyy/weedleaf-ub")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Massom0097/weedleaf-ub")
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
