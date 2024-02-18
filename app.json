@@ -2,7 +2,7 @@
     "name": "ᶦϻͣ ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 𝐁𝐎𝐓",
     "logo": "https://graph.org/file/6b1e6a6b8b0bb4934689f.jpg",
     "keywords": ["telegram", "bot", "Altron"],
-    "repository": "https://github.com/Massom0097/weedleaf-ub",
+    "repository": "https://github.com/innocentpapabolte/weedleaf-ub",
     "buildpacks": [{"url": "heroku/python"}],
     "env": {
         "SESSION1": {
